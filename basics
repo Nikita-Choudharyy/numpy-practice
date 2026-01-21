@@ -1,0 +1,15 @@
+# NumPy Basics
+
+This folder contains basic NumPy practice programs to build a strong foundation for Data Science and Machine Learning.
+
+## Topics Covered
+- Creating NumPy arrays
+- Array indexing and slicing
+- Basic array operations
+- Shape, size, and data types
+- Simple numerical computations
+
+## Purpose
+The goal of this folder is to understand how NumPy works internally and how it is used for efficient numerical computation in ML and Data Science workflows.
+
+📌 More advanced NumPy topics will be added gradually.
