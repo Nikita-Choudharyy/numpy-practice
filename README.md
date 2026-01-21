@@ -23,20 +23,41 @@ The goal of this repository is to understand NumPy from basics to intermediate l
 numpy-practice/
 │
 ├── basics/
-│   ├── arrays.py
-│   ├── data_types.py
+│   ├── introduction.py        # what is numpy, why numpy
+│   ├── array_creation.py      # array(), arange(), linspace()
+│   ├── array_attributes.py    # ndim, shape, size, dtype
+│   ├── indexing_slicing.py    # indexing & slicing
 │   └── README.md
 │
 ├── operations/
-│   ├── indexing_slicing.py
-│   ├── mathematical_operations.py
+│   ├── arithmetic_ops.py      # +, -, *, /, **
+│   ├── comparison_ops.py     # >, <, ==, boolean arrays
+│   ├── aggregation.py        # sum, mean, min, max
+│   └── README.md
+│
+├── array_manipulation/
+│   ├── reshape.py             # reshape, flatten
+│   ├── stacking.py            # vstack, hstack
+│   ├── splitting.py           # split, hsplit, vsplit
+│   └── README.md
+│
+├── mathematical_functions/
+│   ├── universal_functions.py # sqrt, exp, log
+│   ├── trigonometric.py       # sin, cos, tan
+│   └── README.md
+│
+├── linear_algebra/
+│   ├── dot_product.py
+│   ├── matrix_operations.py
 │   └── README.md
 │
 ├── practice/
-│   ├── array_problems.py
+│   ├── beginner_problems.py
+│   ├── intermediate_problems.py
 │   └── README.md
 │
-└── README.md
+└── README.md                  # numpy roadmap for ML/DS
+
 ```
 
 ---
